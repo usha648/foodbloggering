@@ -1,0 +1,31 @@
+.footer
+{
+	height:200px;
+	width:100%;
+	border:2px solid black;
+	background:black;
+	
+}
+.footerbox
+{
+    border:0px solid blue;	
+	width:270px;
+	height:180px;
+	float:left;
+	margin-right:80px;
+	margin-top:10px;
+	margin-bottom:1px;
+	margin-left:80px;
+    color:white;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
